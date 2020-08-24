@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="598px" height="550px" viewBox="-0.5 -0.5 598 550" content="&lt;mxfile host=&quot;82df8440-94da-416e-8d8d-9d026338cb57&quot; modified=&quot;2020-08-24T20:56:29.963Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.48.1 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36&quot; etag=&quot;RhIX-XXiuXMY0BMVEviy&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Money Router&quot;&gt;7ZtLb9s4EIB/jY4bSLJlO8faTncLpECxWWDbU8FIjMUtJQoU/eqv36FEWlZExm5MuxcChuMZ8TkfSc2MlGC0KHZ/clTln1mGaRCH2S4YLYM4TuIEvqVi3yrGs7BVrDjJWlXUKZ7IT6yUutiaZLjuFRSMUUGqvjJlZYlT0dMhztm2X+yF0X6vFVrhgeIpRXSo/ZdkIm+1s3ja6f/CZJXrnqPJfXulQLqwmkmdo4xtj1Sjh2C04IyJ9lexW2Aqbaft0tb7aLl6GBjHpTirwliNQ+z15HAGc1Ui4yJnK1Yi+tBp55ytywzLFkKQujKPjFWgjED5HxZir8ChtWCgykVB1VUYHN9/VfUb4ZsU7hItLnfHF5d7JbVjlQO0TleparbmqSqlqAjEV1iXig+2hjWKWYGhGyjDMUWCbPrNI7VaVodynUHhh7Kp2b5x28QG0bVq9FO5wbUoYMD1wPT1lhQUldLGL6wUmoKcepoTmj2iPVvLKdQCpT+0NM8ZJz+hPNL2hctcKOvHE9kaoXTBKOOgKFnTQVfpSTamuuG4hmpftEGjV6rPaNcr+IhqoQfIKEVVTZ6bIcuKBRiclHMmBCt6ADeYC7x7G+GQja4wVVtHnR2JErfdRjwUyY82YRzOLsc5GuAM4rm6/qFhyUm5GnCF2YoGC2c/8CsOBjSIklUJIsUvspo0F4HD54NSC7nL5nWFUujrsSmzHHeav9WcpYpB3RfaHDA5yTJcNrtXIIGeDyurYkSuRRhoMocPmG4hd2ICA1+AHHUyfGRxLhashLkg0hDDsAa2WK6D8/Batp7CCcv1PJyTy2mOLTRTuF95nm54JvHteE4tPEtUeJ6OeE5nt+OZWHhWnKQKaLkunjH3QN8PNArHtyM6s564aznaY6LQ2yjqfAYP911wR+d6Rw7gRvcWuhkS+HvKMfxpGUuFx3oB1uSGXpKNKjkEMv/sK/zdu8DO6M5u6DPplIoxQpVgByR9kHo6SJ2E/SB1ativYwPRw834IqSRbce+2qL+Fnse6tDM+o2I1cTWyW4d5pN8yOqcqClmvRpRW0rJB60OiZqi1msRjX9vSv2P8C4MJ0Evrx5P7oO3M+uN9AVzAtPFPLgk3R4pGx7n2+/NdJyn26NhyuCTwIX3Yd7hw4AT0/NhxmNDLDkxOTGJi3NxcsKJESbf1J+Jx3iTX/ZbTDid3OVsqVnvtzgkavJbrkbUlsrzyVmXSE2Oy7WQxrbgIvOJO1c8jdn2qwG1Pq4+ZHh82s4hW1Oy/VpsdV83jjJ2RDTv7dzFiRK/qdbk7y64kEIvtvgaHMUp13zbRz81/B3hh+GJ5ZJsCKzezIcg7whBkukZIYgxj6q3x0U0T4Ug/sw8DTj+9SDkaokZWxDiXVaXSG+ZPbW+UOBdVmc8b5o7Pf2w2Xus7tAaoxFHbEHsXmNvrh39L8Do4X8=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-31-31-162-26-0">
+            <rect x="31" y="31" width="162" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-57-162-26-0">
+            <rect x="31" y="57" width="162" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-83-162-26-0">
+            <rect x="31" y="83" width="162" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-109-162-26-0">
+            <rect x="31" y="109" width="162" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-135-162-26-0">
+            <rect x="31" y="135" width="162" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-161-162-26-0">
+            <rect x="31" y="161" width="162" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-187-162-26-0">
+            <rect x="31" y="187" width="162" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-461-57-132-26-0">
+            <rect x="461" y="57" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-461-83-132-26-0">
+            <rect x="461" y="83" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-461-109-132-26-0">
+            <rect x="461" y="109" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-121-421-152-26-0">
+            <rect x="121" y="421" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-121-447-152-26-0">
+            <rect x="121" y="447" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-121-473-152-26-0">
+            <rect x="121" y="473" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-121-499-152-26-0">
+            <rect x="121" y="499" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-121-525-152-26-0">
+            <rect x="121" y="525" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-431-421-132-26-0">
+            <rect x="431" y="421" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-431-447-132-26-0">
+            <rect x="431" y="447" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-431-473-132-26-0">
+            <rect x="431" y="473" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-431-499-132-26-0">
+            <rect x="431" y="499" width="132" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 197 91 L 450.63 91" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 455.88 91 L 448.88 94.5 L 450.63 91 L 448.88 87.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 27 26 L 27 0 L 197 0 L 197 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 27 26 L 27 208 L 197 208 L 197 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 27 26 L 197 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="111.5" y="17.5">
+                Investments
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-31-31-162-26-0)" font-size="12px">
+            <text x="32.5" y="43.5">
+                + id: string
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-31-57-162-26-0)" font-size="12px">
+            <text x="32.5" y="69.5">
+                + code: string
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-31-83-162-26-0)" font-size="12px">
+            <text x="32.5" y="95.5">
+                + name: string
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-31-109-162-26-0)" font-size="12px">
+            <text x="32.5" y="121.5">
+                + price: number
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-31-135-162-26-0)" font-size="12px">
+            <text x="32.5" y="147.5">
+                + count: number
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-31-161-162-26-0)" font-size="12px">
+            <text x="32.5" y="173.5">
+                + date_create: date
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-31-187-162-26-0)" font-size="12px">
+            <text x="32.5" y="199.5">
+                + investmentType_id: string
+            </text>
+        </g>
+        <path d="M 457 52 L 457 26 L 597 26 L 597 52" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 457 52 L 457 130 L 597 130 L 597 52" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 457 52 L 597 52" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="526.5" y="43.5">
+                InvestmentType
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-461-57-132-26-0)" font-size="12px">
+            <text x="462.5" y="69.5">
+                + id: string
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-461-83-132-26-0)" font-size="12px">
+            <text x="462.5" y="95.5">
+                + code: string
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-461-109-132-26-0)" font-size="12px">
+            <text x="462.5" y="121.5">
+                + name: string
+            </text>
+        </g>
+        <path d="M 117 429 L 7 429 L 7 189 L 19.61 189" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 24.86 188.99 L 17.86 192.5 L 19.61 189 L 17.86 185.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 117 416 L 117 390 L 277 390 L 277 416" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 117 416 L 117 546 L 277 546 L 277 416" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 117 416 L 277 416" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="196.5" y="407.5">
+                Item
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-121-421-152-26-0)" font-size="12px">
+            <text x="122.5" y="433.5">
+                + id: type
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-121-447-152-26-0)" font-size="12px">
+            <text x="122.5" y="459.5">
+                + code: string
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-121-473-152-26-0)" font-size="12px">
+            <text x="122.5" y="485.5">
+                + price: number
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-121-499-152-26-0)" font-size="12px">
+            <text x="122.5" y="511.5">
+                + date: date
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-121-525-152-26-0)" font-size="12px">
+            <text x="122.5" y="537.5">
+                + investment_id: string
+            </text>
+        </g>
+        <path d="M 462 390 L 462 195 L 203.37 195" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 198.12 195 L 205.12 191.5 L 203.37 195 L 205.12 198.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 427 416 L 427 390 L 567 390 L 567 416" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 427 416 L 427 520 L 567 520 L 567 416" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 427 416 L 567 416" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="496.5" y="407.5">
+                Dividend
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-431-421-132-26-0)" font-size="12px">
+            <text x="432.5" y="433.5">
+                + id: string
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-431-447-132-26-0)" font-size="12px">
+            <text x="432.5" y="459.5">
+                + price: number
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-431-473-132-26-0)" font-size="12px">
+            <text x="432.5" y="485.5">
+                + date: date
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-431-499-132-26-0)" font-size="12px">
+            <text x="432.5" y="511.5">
+                + investment_id: string
+            </text>
+        </g>
+    </g>
+</svg>
