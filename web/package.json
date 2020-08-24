@@ -1,0 +1,9 @@
+{
+  "name": "money_router_web",
+  "version": "1.0.0",
+  "description": "Aplicação web para gerenciamento de investimentos",
+  "main": "index.js",
+  "repository": "https://github.com/wandealves/money_router",
+  "author": "Wanderson Alves Rodrigues",
+  "license": "MIT"
+}
