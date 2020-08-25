@@ -1,0 +1,20 @@
+1) Instalar Typescript
+
+yarn add -D typescript
+
+2) Instalar ESLint
+
+https://www.notion.so/ESLint-7e455a7ac78b424892329ee064feaf99
+
+yarn add eslint@6.8.0 -D
+
+Após a instalação, precisamos inicializar o eslint pra conseguirmos inserir as configurações dentro do projeto.
+
+yarn eslint --init
+
+3) Instalar Prettier
+
+yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
+
+https://www.notion.so/Prettier-e2c6a3ec188c4cce8890a3e16a0d6425
+
