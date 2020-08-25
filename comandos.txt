@@ -18,3 +18,18 @@ yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
 
 https://www.notion.so/Prettier-e2c6a3ec188c4cce8890a3e16a0d6425
 
+4) Adicionar os types para Node
+
+yarn add -D @types/node
+
+5) Instlar Express
+
+yarn add express
+yarn add express-async-errors
+yarn add @overnightjs/core
+yarn add -D @types/express
+
+6) Instalar executar node
+
+yarn add -D ts-node-dev
+yarn add -D tsconfig-paths
