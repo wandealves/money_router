@@ -39,3 +39,7 @@ yarn add -D tsconfig-paths
 yarn add -D @babel/cli @babel/core @babel/node @babel/plugin-proposal-class-properties 
 yarn add -D @babel/plugin-proposal-decorators @babel/preset-env @babel/preset-typescript 
 yarn add -D babel-plugin-transform-typescript-metadata
+
+8) Instalar TypeOrm e pg(Driver postgres)
+
+yarn add typeorm pg
