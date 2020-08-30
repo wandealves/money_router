@@ -33,3 +33,9 @@ yarn add -D @types/express
 
 yarn add -D ts-node-dev
 yarn add -D tsconfig-paths
+
+7) Bable para Transpilação
+
+yarn add -D @babel/cli @babel/core @babel/node @babel/plugin-proposal-class-properties 
+yarn add -D @babel/plugin-proposal-decorators @babel/preset-env @babel/preset-typescript 
+yarn add -D babel-plugin-transform-typescript-metadata
