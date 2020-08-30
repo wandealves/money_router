@@ -43,3 +43,25 @@ yarn add -D babel-plugin-transform-typescript-metadata
 8) Instalar TypeOrm e pg(Driver postgres)
 
 yarn add typeorm pg
+
+9) Migrations
+
+- Criar
+
+yarn typeorm migration:create -n [NAME]
+
+- Executar
+
+yarn typeorm migration:run
+
+- Reverter
+
+yarn typeorm migration:revert
+
+- Exibir
+
+yarn typeorm migration:show
+
+10) Se ocorrer erro Query Failed Error: function uuid_generate_v4() does not exist
+
+ CREATE EXTENSION "uuid-ossp";

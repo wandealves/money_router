@@ -5,5 +5,10 @@
   "por": 5432,
   "username": "postgres",
   "password": "docker",
-  "database": "money_router"
+  "database": "money_router",
+  "entities": ["./src/modules/**/infra/typeorm/entities/*.ts"],
+  "migrations": ["./src/shared/migrations/*.ts"],
+  "cli": {
+    "migrationsDir": "./src/shared/migrations"
+  }
 }]
